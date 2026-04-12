@@ -1,3 +1,6 @@
+<img width="830" height="290" alt="corne-3x6-(all-layers)" src="https://github.com/user-attachments/assets/c9df48f5-e3a4-47c5-9c63-3eec771c7cde" />
+
+
 # Aurora Corne's Default Keymap
 _This keymap is a copy of the [Corne default keymap](https://github.com/qmk/qmk_firmware/tree/master/keyboards/crkbd/keymaps/default), with modified OLED code._
 
